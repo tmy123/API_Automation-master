@@ -1,0 +1,122 @@
+{
+  "00cf352422e4e739b9079d72fc93ad96" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb8c779bc888b4ed",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_basic_02>>)",
+      "time" : {
+        "start" : 1601192107395,
+        "stop" : 1601192107395,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2582e07db8a61790dfedb52ef16360ba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45a89bb9afc31256",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_personal_02>>)",
+      "time" : {
+        "start" : 1601192107432,
+        "stop" : 1601192107432,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2333673534df44178406762a5af0afba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4126f397ce059e76",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_basic_01>>)",
+      "time" : {
+        "start" : 1601192107378,
+        "stop" : 1601192107378,
+        "duration" : 0
+      }
+    } ]
+  },
+  "48e89d78f1b82a80ffd01dd8c1b6fb3b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "961c905cc6e42bf2",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_collections_02>>)",
+      "time" : {
+        "start" : 1601192107415,
+        "stop" : 1601192107415,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e7710a6030ba5cf47c3d891a90e7ea1f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2fa91917b312d94c",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_collections_01>>)",
+      "time" : {
+        "start" : 1601192107403,
+        "stop" : 1601192107403,
+        "duration" : 0
+      }
+    } ]
+  },
+  "18b0067a84fc063e01c4c6e790d13097" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f17a953f935c6f2",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_personal_01>>)",
+      "time" : {
+        "start" : 1601192107423,
+        "stop" : 1601192107423,
+        "duration" : 0
+      }
+    } ]
+  }
+}

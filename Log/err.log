@@ -1,0 +1,20 @@
+[ERROR 2018-08-24 09:55:37]Response body != expected_msg, expected_msg is {"error":"继续操作前请注册或者登录9."}, body is {"error":"继续操作前请注册或者登录."}
+[ERROR 2018-08-24 09:59:43]Response body != expected_msg, expected_msg is {"error":"继续操作前请注册或者登录9."}, body is {"error":"继续操作前请注册或者登录."}
+[ERROR 2018-08-24 10:00:11]Response time > expected_time, expected_time is 400, time is 482.745
+[ERROR 2018-08-24 10:00:12]Response body != expected_msg, expected_msg is {"error":"继续操作前请注册或者登录9."}, body is {"error":"继续操作前请注册或者登录."}
+[ERROR 2018-08-25 21:49:38]Response time > expected_time, expected_time is 100, time is 671.038
+[ERROR 2018-08-25 21:49:41]statusCode error, expected_code is 208, statusCode is 200 
+[ERROR 2019-05-07 16:27:15]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-07 16:28:20]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-07 16:30:44]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-07 17:04:57]邮件发送失败，请检查邮件配置
+[ERROR 2019-06-03 16:33:25]邮件发送失败，请检查邮件配置
+[ERROR 2019-07-08 17:31:01]邮件发送失败，请检查邮件配置
+[ERROR 2020-09-22 21:22:32]邮件发送失败，请检查邮件配置
+[ERROR 2020-09-22 22:56:07]邮件发送失败，请检查邮件配置
+[ERROR 2020-09-24 23:37:42]This is error
+[ERROR 2020-09-24 23:37:50]This is error
+[ERROR 2020-09-27 15:33:20]邮件发送失败，请检查邮件配置
+[ERROR 2020-09-27 15:34:43]邮件发送失败，请检查邮件配置
+[ERROR 2020-09-27 15:35:14]邮件发送失败，请检查邮件配置
+[ERROR 2020-09-27 18:18:01]邮件发送失败，请检查邮件配置

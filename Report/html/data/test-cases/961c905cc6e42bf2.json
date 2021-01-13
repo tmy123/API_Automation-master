@@ -1,0 +1,73 @@
+{
+  "uid" : "961c905cc6e42bf2",
+  "name" : "test_collections_02",
+  "fullName" : "TestCase.test_collections.TestCollections#test_collections_02",
+  "historyId" : "48e89d78f1b82a80ffd01dd8c1b6fb3b",
+  "time" : {
+    "start" : 1601192107415,
+    "stop" : 1601192107415,
+    "duration" : 0
+  },
+  "description" : "\n            用例描述：查看用户'95c34f9cc50c'的Collections\n        ",
+  "descriptionHtml" : "<pre><code>        用例描述：查看用户'95c34f9cc50c'的Collections\n</code></pre>\n",
+  "status" : "broken",
+  "statusMessage" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_collections_02>>)",
+  "statusTrace" : "file D:\\API_Automation-master\\TestCase\\test_collections.py, line 40\n      @allure.feature('Home')\n      @allure.severity('blocker')\n      @allure.story('Collections')\n      def test_collections_02(self, action):\nE       fixture 'action' not found\n>       available fixtures: cache, capfd, capfdbinary, caplog, capsys, capsysbinary, doctest_namespace, metadata, monkeypatch, pytestconfig, record_property, record_testsuite_property, record_xml_attribute, recwarn, tmp_path, tmp_path_factory, tmpdir, tmpdir_factory, worker_id\n>       use 'pytest --fixtures [testpath]' for help on them.\n\nD:\\API_Automation-master\\TestCase\\test_collections.py:40",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Collections"
+  }, {
+    "name" : "feature",
+    "value" : "Home"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_collections"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCollections"
+  }, {
+    "name" : "host",
+    "value" : "YLMF-1804022100"
+  }, {
+    "name" : "thread",
+    "value" : "15600-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_collections"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "961c905cc6e42bf2.json",
+  "parameterValues" : [ ]
+}

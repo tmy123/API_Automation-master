@@ -1,0 +1,19 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun Sep 27 15:35:07 CST 2020","Sun Sep 27 15:35:07 CST 2020","0","TestCase","test_basic","TestBasic","","","test_basic_02","
+            用例描述：登陆状态下查看基础设置
+        "
+"broken","Sun Sep 27 15:35:07 CST 2020","Sun Sep 27 15:35:07 CST 2020","0","TestCase","test_collections","TestCollections","","","test_collections_02","
+            用例描述：查看用户'95c34f9cc50c'的Collections
+        "
+"broken","Sun Sep 27 15:35:07 CST 2020","Sun Sep 27 15:35:07 CST 2020","0","TestCase","test_basic","TestBasic","","","test_basic_01","
+            用例描述：未登陆状态下查看基础设置
+        "
+"broken","Sun Sep 27 15:35:07 CST 2020","Sun Sep 27 15:35:07 CST 2020","0","TestCase","test_personal","TestPersonal","","","test_personal_02","
+            用例描述：登陆状态下更新Personal个人简介
+        "
+"broken","Sun Sep 27 15:35:07 CST 2020","Sun Sep 27 15:35:07 CST 2020","0","TestCase","test_personal","TestPersonal","","","test_personal_01","
+            用例描述：未登陆状态下更新Personal个人简介
+        "
+"broken","Sun Sep 27 15:35:07 CST 2020","Sun Sep 27 15:35:07 CST 2020","0","TestCase","test_collections","TestCollections","","","test_collections_01","
+            用例描述：查看用户'da1677475c27'的Collections
+        "

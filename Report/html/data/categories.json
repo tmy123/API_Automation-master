@@ -1,0 +1,111 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_basic_01>>)",
+      "children" : [ {
+        "name" : "test_basic_01",
+        "uid" : "4126f397ce059e76",
+        "parentUid" : "80371190d3ced8eae4243761898bfcc4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601192107378,
+          "stop" : 1601192107378,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "80371190d3ced8eae4243761898bfcc4"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_basic_02>>)",
+      "children" : [ {
+        "name" : "test_basic_02",
+        "uid" : "eb8c779bc888b4ed",
+        "parentUid" : "cbe8e23b9aa960342725b644fe1c0e4e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601192107395,
+          "stop" : 1601192107395,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cbe8e23b9aa960342725b644fe1c0e4e"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_collections_01>>)",
+      "children" : [ {
+        "name" : "test_collections_01",
+        "uid" : "2fa91917b312d94c",
+        "parentUid" : "7b664985f73ff7177dbce3c66f4d2979",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601192107403,
+          "stop" : 1601192107403,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7b664985f73ff7177dbce3c66f4d2979"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_collections_02>>)",
+      "children" : [ {
+        "name" : "test_collections_02",
+        "uid" : "961c905cc6e42bf2",
+        "parentUid" : "7c452d6de060427815c2b16c978c0a58",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601192107415,
+          "stop" : 1601192107415,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7c452d6de060427815c2b16c978c0a58"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_personal_01>>)",
+      "children" : [ {
+        "name" : "test_personal_01",
+        "uid" : "3f17a953f935c6f2",
+        "parentUid" : "7835386d634b61f51221a3e8f7c148f3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601192107423,
+          "stop" : 1601192107423,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7835386d634b61f51221a3e8f7c148f3"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_personal_02>>)",
+      "children" : [ {
+        "name" : "test_personal_02",
+        "uid" : "45a89bb9afc31256",
+        "parentUid" : "938b32ca4480a0f0d8601b438b7bdfee",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601192107432,
+          "stop" : 1601192107432,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "938b32ca4480a0f0d8601b438b7bdfee"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

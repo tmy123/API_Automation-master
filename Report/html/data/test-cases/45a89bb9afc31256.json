@@ -1,0 +1,73 @@
+{
+  "uid" : "45a89bb9afc31256",
+  "name" : "test_personal_02",
+  "fullName" : "TestCase.test_personal.TestPersonal#test_personal_02",
+  "historyId" : "2582e07db8a61790dfedb52ef16360ba",
+  "time" : {
+    "start" : 1601192107432,
+    "stop" : 1601192107432,
+    "duration" : 0
+  },
+  "description" : "\n            用例描述：登陆状态下更新Personal个人简介\n        ",
+  "descriptionHtml" : "<pre><code>        用例描述：登陆状态下更新Personal个人简介\n</code></pre>\n",
+  "status" : "broken",
+  "statusMessage" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_personal_02>>)",
+  "statusTrace" : "file D:\\API_Automation-master\\TestCase\\test_personal.py, line 39\n      @allure.feature('Personal')\n      @allure.severity('blocker')\n      @allure.story('Personal')\n      def test_personal_02(self, action):\nE       fixture 'action' not found\n>       available fixtures: cache, capfd, capfdbinary, caplog, capsys, capsysbinary, doctest_namespace, metadata, monkeypatch, pytestconfig, record_property, record_testsuite_property, record_xml_attribute, recwarn, tmp_path, tmp_path_factory, tmpdir, tmpdir_factory, worker_id\n>       use 'pytest --fixtures [testpath]' for help on them.\n\nD:\\API_Automation-master\\TestCase\\test_personal.py:39",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Personal"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "feature",
+    "value" : "Personal"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_personal"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPersonal"
+  }, {
+    "name" : "host",
+    "value" : "YLMF-1804022100"
+  }, {
+    "name" : "thread",
+    "value" : "15600-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_personal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "45a89bb9afc31256.json",
+  "parameterValues" : [ ]
+}

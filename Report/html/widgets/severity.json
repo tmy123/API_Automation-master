@@ -1,0 +1,61 @@
+[ {
+  "uid" : "45a89bb9afc31256",
+  "name" : "test_personal_02",
+  "time" : {
+    "start" : 1601192107432,
+    "stop" : 1601192107432,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "4126f397ce059e76",
+  "name" : "test_basic_01",
+  "time" : {
+    "start" : 1601192107378,
+    "stop" : 1601192107378,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "3f17a953f935c6f2",
+  "name" : "test_personal_01",
+  "time" : {
+    "start" : 1601192107423,
+    "stop" : 1601192107423,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "2fa91917b312d94c",
+  "name" : "test_collections_01",
+  "time" : {
+    "start" : 1601192107403,
+    "stop" : 1601192107403,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "eb8c779bc888b4ed",
+  "name" : "test_basic_02",
+  "time" : {
+    "start" : 1601192107395,
+    "stop" : 1601192107395,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "961c905cc6e42bf2",
+  "name" : "test_collections_02",
+  "time" : {
+    "start" : 1601192107415,
+    "stop" : 1601192107415,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+} ]
